@@ -1,0 +1,9 @@
+{
+  "modules": [
+    {
+      "name": "execution",
+      "type": "core",
+      "path": "execution"
+    }
+  ]
+}

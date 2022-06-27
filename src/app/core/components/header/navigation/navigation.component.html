@@ -1,0 +1,7 @@
+<ion-toolbar>
+  <ion-buttons slot="start">
+    <ion-button *ngFor="let module of modules" (click)="navigate(module.path)">
+      {{ module.name}}
+    </ion-button>
+  </ion-buttons>
+</ion-toolbar>

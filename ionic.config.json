@@ -1,0 +1,7 @@
+{
+  "name": "pikaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
